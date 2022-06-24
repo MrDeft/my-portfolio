@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './style.css'
 import './css/media.css'
-import SideBar from './sidebar';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import SideBar from './sidebar';
 import Home from './home';
 import About from './about';
 import Resume from './resume';

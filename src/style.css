@@ -356,7 +356,7 @@ code {
   width: 20px;
   height: 25px;
   position: absolute;
-  background: url("./font/svgs/solid/book.svg") no-repeat;
+  background: url("./icon/book.svg") no-repeat;
 }
 .my-resume-list {
   display: flex;
@@ -460,8 +460,3 @@ code {
   position: absolute;
   transition: all 0.1s;
 }
-
-/* Media */
-/* Media */
-/* Media */
-/* Media */

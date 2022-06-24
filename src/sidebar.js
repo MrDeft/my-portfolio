@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import myphoto from './font/20190307_092019.jpg';
+import myphoto from './icon/20190307_092019.jpg';
 import { Link } from 'react-router-dom';
 import './icon/bootstrap-icons.css'
 
