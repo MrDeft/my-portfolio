@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import myphoto from './icon/20190307_092019.jpg';
 import { Link } from 'react-router-dom';
 import './icon/bootstrap-icons.css'
@@ -25,32 +25,19 @@ function SideBar() {
     }
 
 
-    let k = false
-    // let sideBarComponent = document.getElementById('sidebar');
     const [classes, handler] = useState('sidebar');
-
-    useEffect(menuBars, [])
-
-    function menuBars() {
-        if (k) {
-            // eslint-disable-next-line react-hooks/exhaustive-deps
-            k = false;
-            handler('sidebar-show')
-        } else {
-            k = true
-            handler('sidebar')
-        }
-
-        // if(sideBarComponent.classList[0] === 'sidebar-show') {
-        //     sideBarComponent.className = 'sidebar';
-        // } else {
-        //     sideBarComponent.className = 'sidebar-show'
-        // }
-    }
 
     return (
         <div id="sidebar" className={`${classes}`} >
-            <button onClick={menuBars} id="menu-bars"><i className="bi bi-list"></i></button>
+            <button
+                // onClick={() => {
+                //     k ? handler('sidebar-show') : handler('sidebar')
+                //     k = !k;
+                //     console.log(1);
+                // }}
+                onMouseOver={() => handler('sidebar-show')}
+                onMouseOut={() => handler('sidebar')}
+                id="menu-bars"><i className="bi bi-list"></i></button>
             <ul>
                 <li className="sidebar-myimages"><img src={myphoto} alt='img' /></li>
                 <li onClick={addclass} className="sidebar-list">

@@ -220,12 +220,7 @@ code {
 .sidebar {
   left: 0;
 }
-.sidebar-hide {
-  left: -250px;
-}
-.sidebar-show {
-  left: 0;
-}
+
 .sidebar-myimages {
   width: 250px;
   display: flex;
@@ -458,5 +453,16 @@ code {
   font-size: 42px;
   background: none;
   position: absolute;
+  border-radius: 5px;
   transition: all 0.1s;
+  background-color: #10121b;
+}
+
+
+
+.sidebar-hide {
+  left: -250px;
+}
+.sidebar-show {
+  left: 0;
 }
