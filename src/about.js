@@ -5,9 +5,9 @@ function About() {
         <div id='about'>
             <h1 id='about-title'>About me</h1>
             <div className='about-component'>
-                <h2>Men <span>Bouirjon Allashukirov</span></h2>
+                <h2>I am <span>Bouirjon Allashukirov</span></h2>
                 <p className='about-text'>
-                    Men frontend web dasturchiman. Hozirda Toshkent Axborot Texnologiyalari Universiteti Nukus filiali Dasturiy injiniring yo'nalishi 3-kurs talabasiman
+                    I am a frontend web developer. Currently, I am studying at the 3rd stage of software engineering at Tashkent University of Information Technology, Nukus branch.
                 </p>
                 <ul className='about-com'>
                     <li className='about-list'><span>Full Name</span> : Bouirjon Allashukirov</li>

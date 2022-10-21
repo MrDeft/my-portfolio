@@ -26,7 +26,7 @@ function Resume() {
                     <li className='my-resume-list'>
                         <span className='my-resume-date'>2016 - 2019</span>
                         <span className='my-resume-text'>
-                            <h2>Talaba</h2>
+                            <h2>Student</h2>
                             <p className='my-resume-p'>Neft va Gaz Ko'llej</p>
                             <p className='my-resume-lorem'>Lorem ipsum dolor sit amet consectetur,
                                 adipisicing elit. Quas, magni mollitia, aspernatur
@@ -50,7 +50,7 @@ function Resume() {
                     <li className='my-resume-list'>
                         <span className='my-resume-date'>2020 - 2024</span>
                         <span className='my-resume-text'>
-                            <h2>Talaba</h2>
+                            <h2>Student</h2>
                             <p className='my-resume-p'>TATU NF</p>
                             <p className='my-resume-lorem'>Lorem ipsum dolor sit amet consectetur,
                                 adipisicing elit. Quas, magni mollitia, aspernatur

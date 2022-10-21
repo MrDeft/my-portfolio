@@ -6,10 +6,10 @@ function Home() {
             <h1 id='home-title'>Home</h1>
             <div className='home-comp'>
                 <h1 id='home-subtitle'>
-                    Salom, Men <span className='home-myname'>Bouirjon Allashukirov</span>
+                    HI, I am <span className='home-myname'>Bouirjon Allashukirov</span>
                 </h1>
                 <p id='home-p'>
-                    Men ijtimoiy tarmoqlarda:
+                    I'm on social media:
                 </p>
                 <ul className='social-comp'>
                     <li className='social-list'>

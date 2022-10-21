@@ -8,6 +8,8 @@ import Home from './home';
 import About from './about';
 import Resume from './resume';
 import Blogs from './blogs';
+import Portfolios from './portfolio';
+import Article from './Article';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -19,7 +21,9 @@ root.render(
         <Route index path='/' element={<Home />} />
         <Route path='about' element={<About />} />
         <Route path='resume' element={<Resume />} />
+        <Route path='portfolios' element={<Portfolios />} />
         <Route path='blogs' element={<Blogs />} />
+        <Route path='blogs/:id' element={<Article />} />
       </Routes>
     </BrowserRouter>
   </div>

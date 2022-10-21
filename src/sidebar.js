@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import myphoto from './icon/20190307_092019.jpg';
+import myphoto from './images/profile.jpg';
 import { Link } from 'react-router-dom';
 import './icon/bootstrap-icons.css'
 
@@ -30,11 +30,6 @@ function SideBar() {
     return (
         <div id="sidebar" className={`${classes}`} >
             <button
-                // onClick={() => {
-                //     k ? handler('sidebar-show') : handler('sidebar')
-                //     k = !k;
-                //     console.log(1);
-                // }}
                 onMouseOver={() => handler('sidebar-show')}
                 onMouseOut={() => handler('sidebar')}
                 id="menu-bars"><i className="bi bi-list"></i></button>

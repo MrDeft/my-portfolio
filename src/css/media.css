@@ -8,7 +8,8 @@
     #resume,
     #portfolios,
     #blogs,
-    #contact {
+    #contact,
+    #article {
         left: 0;
         width: 100%;
         padding-top: 100px;
@@ -42,6 +43,10 @@
         grid-gap: 15px;
         grid-template-columns: repeat(1, 1fr);
     }
+    .portfolio-container {
+        grid-gap: 20px;
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media screen and (max-width: 556px) {
@@ -49,7 +54,8 @@
     #my-skills-title,
     #my-resume-title,
     #blogs-title,
-    #home-title {
+    #home-title,
+    #portfolios-title {
         width: 330px;
         font-size: 36px;
     }
@@ -57,7 +63,8 @@
     #my-skills-title::after,
     #my-resume-title::after,
     #blogs-title::after,
-    #home-title::after {
+    #home-title::after,
+    #portfolios-title::after {
         bottom: -36px;
         font-size: 40px;
     }
@@ -113,5 +120,15 @@
     }
     .my-resume-lorem {
         font-size: 14px;
+    }
+    .portfolio-container {
+        grid-gap: 20px;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .article-title {
+        font-size: 22px;
+    }
+    .article-text {
+        font-size: 12px;
     }
 }

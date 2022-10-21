@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "title": "Algoritm haqida (1-dars)",
+    "about": "Algoritm nima? Algoritm bu ma'lum bir vazifani bajarishga qaratilgan kichik dastur",
+    "dataText": [
+      {
+        "text": "Algoritm nima? Algoritm bu ma'lum bir vazifani bajarishga qaratilgan kichik dastur. Algoritm tushunchasini kengroq qilib tushintirganda, berilgan masalani yechish uchun ketma-ketliklar majmuasidir."
+      },
+      {
+        "text": "Algoritmni hayotimizda juda ko'p sohalarda ishlatiladi: chorraxada svetafor, binolarda lift. Hattoki o'zimiz oddiy hayotiy ishlarda ham algoritm ishlatamiz: choynakga choy damlash. Algoritmlarning komputer sohasida ham muhim ro'l o'ynaydi. Chunki, dasturchi yozgan dasturlar hammasi ma'lum bir ketma-ketlik bilan ishlaydi."
+      }
+    ]
+  },
+  
+  {
+    "id": 2,
+    "title": "API nima? Boshlovchilar uchun oddiy tushuncha",
+    "about": "Ushbu maqolada API haqida bilib olishingiz, API nima, uning ishlashi haqida umumiy ma'lumotlarga ega bo'lishingiz mumkin",
+    "dataText": [
+      {
+        "text": "Bu atama dasturlash bilan ozgina bo'lsa ham shug'ullangan odam uchun nimanidir anglatadi. Lekin, hamma ham u nimani anglatishini va u nimaga kerakligini to'liq tushunishmaydi. Dastuchi Pyoter Gazarov API haqida oddiy tilda o'zining blogida gapirib berdi."
+      },
+      {
+        "text": "API abbereviaturasi \"Application Programming Interface\" so'zlarining bosh harflaridan olingan bo'lib, dasturlarni dasturlash interfeysi yoki dastularni dasturiy interfeysi deb tarjima qilinadi. Ko'plab katta kompaniyalar ma'lum darajaga yetishganda, o'z mijozlari yoki kompaniya ichida qo'lanilishi uchun, API yaratishadi. API'ni dastur yaratishda yoki biznesda qanday qo'llanilishi tushunish uchun avvalo \"butunjahon o'rgimchak to'ri\" qanday ishlashi bilan tanishib chiqish kerak bo'ladi."
+      },
+      {
+        "text": "WWW'ni bir-biri bilan bog'langan, serverlarning katta tarmog'i sifatida tasavvur qilish mumkin va ularda har bitta sahifa saqlanadi. Oddiy noutbukni tarmoqda butun bir sayt ishlashini ta'minlaydigan serverga aylantirish ham mumkin. Lokal serverlar esa, dasturchilarga ular sayt yaratishlari uchun vaqtincha server vazifasini bajarishi mumkin. Brauzerning manzil qatorida www.facebook.com yozilganda, boshqa joydagi facebook serveriga kerakli so'rov yuboriladi. Brauzer serverdan javob olish bilanoq u kodni interpretatsiya qiladi(\"chizadi\") va foydalanuvchiga sahifani ko'rsatadi."
+      },
+      {
+        "text": "Foydalanuvchi har gal tarmoqdagi qaysidir sahifaga tashrif buyurganda u boshqa joydagi server API'si bilan bog'lanadi. API - serverning asosiy qismi bo'lib, u so'rovlar qabul qiladi va ularga javoblar qaytaradi."
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Linkedinda profilingizni to'g'ri to'ldiring",
+    "about": "Linkedin bu Sizning onlayn rezyumeyingiz va har bir dasturchida yaxshi onlayn rezyume bo'lishi shart",
+    "dataText": [
+      {
+        "text": "Linkedin bu Sizning onlayn rezyumeyingiz va har bir dasturchida yaxshi onlayn rezyume bo'lishi shart. Ayniqsa agar karyerangiz endi boshlangan bo'lsa, Linkedindan to'g'ri foydalanish juda muhim. Delivery Hero ham meni Linkedindan topgan va ko'chib kelishimga ko'maklashgan."
+      },
+      {
+        "text": "Siz ham quyidagilardan foydalanib profilingizni sifatini oshirishingiz mumkin 👇"
+      },
+      {
+        "text": "1. Profil sarlavhasi (headline): Boshqalar birinchi ko'radigan narsa bu profilingiz sarlavhasi. Siz birinchi taassurotni qanday qoldirishingiz shu so'zlarga bog'liq. Bu yerda men hozir nima ish qilishimni yozganman: Software Engineer at Anaconda. Chunki bu shu paytgacha erishgan eng katta yutug'im. Agar siz birinchi ish qidirayotgan bo'lsangiz Looking for frontend oppotunities deb yozib qo'yishingiz mumkin. Agar bunday yozish yoqmasa, Junior Frontend Engineer desangiz ham bo'ladi ✅. Shunda profilingiz qidiruv natijalarida teparoqda chiqadi. God willing, I will be the best in the world deb yozib yurmang ❌"
+      },
+      {
+        "text": "2. Profildagi rasm: Ikkinchi ko'zga tashlanadigan narsa bu rasmingiz. Iloji boricha professional rasm bo'lish kerak va asosan tanangizning tepa qismi, yuzingiz yaxshi ko'ringan bo'lishi kerak. Qandaydir selfie yoki Tinder profilingizdagi rasmni bu yerga qo'yib yurmang ❌"
+      },
+      {
+        "text": "3. Profile summary: Uchinchisi bu summary. Bu yerda siz qisqa va lo'nda qilib o'zingiz haqingizda va ish qidirayotgan bo'lsangiz qanday ish izlayotganingizni yozishingiz kerak. Eng kuchli taraflaringizni, nimalarni bilishingizni shu yerda yozsangiz bo'ladi. Hullas, o'zingizni \"soting\". Bu maqtanish emas. Dunyodagi eng zo'r dasturchi bo'lsangiz ham hech kim buni bilmasa, nima foyda? Yaxshi summary uchun misollar: https://bit.ly/2WSM3v6 ✅ Odnoklassniki.ru da ishlatiladigan statuslaringizni bu yerda yozib yurmang ❌"
+      },
+      {
+        "text": "4. Tajribalaringiz: Tajribalaringizni to'g'ri to'ldirishingiz birinchi (HR bilan) va ikkinchi (Rezyume discussion) intervyudan o'tishga juda katta yordam beradi. Shunga qaramasdan ko'pchilik juda ham umumiy malumotlarni yozib qo'yadi bu yerda. Undan ko'ra, o'tgan ish joylaringizda aniq nima ish qilganingiz haqida yozishingiz kerak, ko'proq raqamlar berishingiz kerak ✅."
+      },
+      {
+        "text": "5. Activity. Linkedinda nima ish qilsangiz qolganlar shu qilgan ishlaringizni ko'ra oladi. Qanday postlar qo'ygansiz, qanday postlarga \"Like\" bosgansiz va hokazo. Linkedin bu professional social network. Professional karyerangizga tegishli bo'lgan ishlarni qiling ✅ Undan boshqa ishlarni facebook, tinder yoki telegramda qilaverasiz. Jinni ketti postlar yozib, g'alati postlarga like bosib yurmang ❌."
+      },
+      {
+        "text": "6. Maxsus URL: Linkedinda birinchi profil yaratganingizda, u sizga g'alati ko'rinishdagi URL beradi. Masalan: https://www.linkedin.com/in/jakhongir-rakhmonov-81ab64176/. Bu professional ko'rinishga ega emas. Shuning uchun uni o'zgartiring ✅. Meniki quyidagicha: https://www.linkedin.com/in/jahongirrahmonov/. Qanday o'zgartirishni bu yerda ko'rishingiz mumkin: https://bit.ly/3zHhebf"
+      },
+      {
+        "text": "Berilgan URLni shundayligicha qoldirib yurmang ❌"
+      },
+      {
+        "text": "7. Tavsiyalar: Eski ham-kasblaringizdan siz haqingizda bir ikki og'iz gap yozib qo'yishlarini so'rang ✅. Sizni tanimagan odam profilingizga kirganda tavsiyalar yaxshi taassurot qoldiradi. Bu zo'r bola deb yozib qo'yishmasin yana ❌"
+      },
+      {
+        "text": "Qolgan qismlarini ham esdan chiqarmang. Shunda sizga All-star statusi beriladi va profilingiz qidiruv natijalarida teparoqda chiqadi."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "MySQL turlari va talqinlar tushunchasi (1-dars)",
+    "about": "Bu maqolada mysql turlari, qaysilari tekin, qaysilari pullik ekanligini, talqin tushunchasi va ko'chirib olish uchun qanday fayllar taklif qilinishini ko'rib chiqamiz.",
+    "dataText": [
+      {
+        "text": "MySQL bu — krossplatformali dastur hisoblanadi, ya'ni bir xil tipga ega bo'lgan(ishlash texnologiyasi bir xil), lekin o'rnatiluvchi fayllari biroz boshqachadir. Hozirda mysql Oracle firmasi tomonidan ishlab chiqarilmoqda, oldin Sun firmasiga tegishli bo'lgan. Shuning uchun MySQL 4 talqini MySQL 5 talqinidan farq qiladi. Hozirda(maqola yozilishida) eng so'ngi talqini 5.6.14 dir."
+      },
+      {
+        "text": "Keling enda,talqinlar nimani anglatishini bilib olamiz. Har bir dastur, ma'lum bir sonlar asosida talqinlarga ajratiladi. Dastur ismi o'zgarmaydi, faqat sonlar o'zgarib, dasturning yangi yoki eskiligini ajratib turadi. Yangi yoki eskiligi, dasturning darajasini belgilaydi, ya'ni yangi dastur eskisiga qaraganda yangi qirralari mavjudligini anglatadi. MySQL dasturi ham hamma dasturlar kabi o'z talqiniga ega(5.6.14). Demak birinchi raqam asosiy raqam deyiladi. Bizning holatda bu 5 raqami. Bu raqam kamdan kam o'zgaradi, faqatgina dasturning asosi o'zgarsa o'zgaradi. Keyingi raqam 6, bu raqam asosiy raqamga yordamchi raqam hisoblanadi va asosiy raqamga qaraganda tezroq o'zgaradi. Buning o'zgarishi, dasturning ishlash texnologiyasi biroz o'zgarishi natijasida sodir bo'ladi. Keyingi raqam build deyiladi. Bizning holatda bu 14 raqam. Dastur ishlashida biror nuqson(bug) paydo bo'lsa, dasturchilar darrov shu nuqson(bug)ni yo'qotishadi va raqamni keyingisiga o'zgartirib qo'yishadi. Bundan ko'rinib turibdiki bu raqam tez o'zgaradi. Bu o'zgartirish dasturchilar tilida Patch deyiladi. O'z tajribamdan kelib chiqib fikr bildirsam, har bir yangi chiqgan Patch, eski nuqsonlarni bartaraf etib, yangisini paydo qiladi :)."
+      },
+      {
+        "text": "MySQL asosan 2 turga bo'linadi. Birinchisi, pullik talqin bo'lib, MySQL Enterprise Server deyiladi. Bu turidan foydalanganda, har yil ma'lum bir mablag' to'lash talab etiladi."
+      },
+      {
+        "text": "Ikkinchisi, MySQL Community Server deb nomlanib, bepul hisoblanadi."
+      },
+      {
+        "text": "MySQL Enterprise Serverni MySQL Community Serverdan farqi, Enterprise tipi o'zida barcha utilitlarni qamrab oladi va chiqayotgan barcha yangi patch va o'zgarishlar dastlab shu tipiga chiqariladi va ancha vaqtdan so'ng Community tipiga chiqadi. Undan tashqari Enterprise tipida klaster texnologiyasi ham mavjud. Biz uchun Community tipi ham yetarli hisoblanadi va shu tipini o'rganib boramiz."
+      },
+      {
+        "text": "MySQL Community tipining ham 2 turi mavjud bo'lib, biri Essentials(boshlang'ich) talqini, ikkinchisi Installer deyiladi. Essential turida faqat server mavjud bo'lib, hech qanday qo'shimcha komponenlar yo'q, Installerda esa bir necha qo'shimcha komponentlar mavjud bo'lib, hajmi ham kattaroq. Essential talqini zip arxivda beriladi, Installer esa msi fayli ko'rinishida bo'ladi."
+      },
+      {
+        "text": "Undan tashqari mysql ni ko'chirib olishda, operatsion tizimning qaysi bitligini ham inobatga olish lozim. Saytda ham, 64 va 32 uchun alohida mysql dasturini fayllari taklif qilinadi."
+      },
+      {
+        "text": "MySQL ishlashi uchun, hech qanday Apache serveri, hech qanday PHP kerak emas. Faqatgina bazani o'zini o'rganmoqchi bo'lsangiz, Apache PHP larni o'rnatmang. Bular faqat to'liq sayt yaratish uchun kerak. To'g'ri bularni o'rnatish ham qiyin emas, lekin ortiqcha narsalar. Bazani mukammal o'rganganingizdan so'ng qolgan narsalarni o'rnatib, sozlovchi fayllar orqali bir birlarini bog'lab olasiz."
+      },
+      {
+        "text": "Ya'na bir narsa, ko'pchilik saytlarda oldin Apache qo'ying, keyin mysql va oxirida PHP ni o'rnating degan maqolalarni uchratish mumkin. Umuman olganda ketma-ketlikning umuman farqi yo'q, birgalikda ishlashsa ham, bular hammasi alohida — alohida dasturlar."
+      },
+      {
+        "text": "Agar hali ham mysql nimaligini anglay olmagan bo'lsangiz, oxirgi tushuntirish gaplarini yozaman, bu — ma'lumotlar bazasini boshqarish tizimi bo'lib, bu tizimga sinonim tizim qilib, Oracle, MS SQL SERVER larni misol qilish mumkin."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "NoSql - Umumiy tushunchalar (1-dars)",
+    "about": "NoSql(Not Only SQL yoki No Sql) tushunchasi 2009-yildan boshlab mashhur bo'la boshladi",
+    "dataText": [
+      {
+        "text": "NoSql(Not Only SQL yoki No Sql) tushunchasi 2009-yildan boshlab mashhur bo'la boshladi. Aynan o'sha davrda web texnologiyalar va ijtimoiy xizmatlar ma'lumotlarni saqlash va ular ustida amallar bajarish usullari rivoji uchun yangi turtki berdi."
+      },
+      {
+        "text": "Bunday loyiha yaratuvchilari odatiy ma'lumotlarni saqlash tizimlari mos kelmaydigan yoki juda ham qimmatlik qiladigan masalalarini hal qilishlariga to'g'ri keldi. Bundan tashqari, bunday ma'lumotlar omborini boshqa yangi turdagi ma'lumotlar omboriga almashtirishga startapchilar va \"Big Data\"lar bilan ishlovchilar sababchi bo'lishdi."
+      },
+      {
+        "text": "Shuni tushunish kerakki, NoSql bu odatiy ma'lumotlar omboridan butunlay voz kechish emas. Odatda biron bir ish quroli ma'lum bir muommoni hal qilish uchun eng qulay bo'lganligi uchun tanlanadi. NoSql haqida gapirishgandi odatda quyidagi ustunliklarini sanab o'tishadi."
+      },
+      {
+        "text": "Masshtablanuvchanlik. Odatiy ma'lumotlar omborida mavjud bo'lgan gorizontal masshtablash juda katta mehnatni, juda katta moliyaviy resurslarni talab qiladi va albatta faqat ma'lum turdagi masalalarni hal qilish uchun mos keladi holos. Ko'plab NoSql ma'lumotlar omborlari esa aynan gorizontal masshtablashni hisobga olgan holda loyihalashtirilgan. Va bu masshtablashni hech qanday qiyinchiliklar amalga oshirish mumkin bo'ladi."
+      },
+      {
+        "text": "Ishlash tezligi. Ma'lumotlar ombori klasterda emas balki bitta tugundaligi ham asosiy parametrlardan biri hisoblanadi. Ko'plab masalarni hal qilish uchun odatiy ma'lumotlar omborlarini tranzaktsionlik, o'zgarishlarni ajratish, bitta tugundan tashqaridagi ishonchliligi va aynan bog'langa ma'lumotlar omborlari kerak bo'lmasligi. Shu sababli shu xususiyatlaridan butunlay yoki qisman voz kechishlik NoSqlga bitta tugunda katta tezlikga erishishga yordam beradi."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Oracle ma’lumotlar bazasini boshqarish tizimi haqida",
+    "about": "Oracle (Ma'lumotlar Bazasini Boshqarish Tizimi) – katta hajmdagi ma'lumotlarni boshqarish, ulardan kerakli ma'lumotlarni so'rov orqali istalgan ko'rinishda chiqarib olish...",
+    "dataText": [
+      {
+        "text": "Oracle (Ma'lumotlar Bazasini Boshqarish Tizimi) – katta hajmdagi ma'lumotlarni boshqarish, ulardan kerakli ma'lumotlarni so'rov orqali istalgan ko'rinishda chiqarib olish, ma'lumotlarning zahira nusxalarini olish, katta xajmdagi ma'lumotlarni siqish, qulay interfeysda baza ustidan nazorat o'rnatish, ma'lumotlar asosida hisobotlar hosil qilish va bulardan boshqa ma'lumotlar ustida juda katta ko'lamdagi ishlarni amalga oshiradigan dasturiy kompleksdir. Oracle dasturini server va klient ko'rinishida o'rnatish mumkin va berilgan ruxsat doirasida ishlatish mumkin. Bu dastur asosan katta xajmdagi ma'lumotlar bilin ishlaganligi uchun , asosan yirik korxonalarda ishlatiladi. Bu dasturning asosini ma'lumotlar bazasi tushunchasi tashkil etadi."
+      },
+      {
+        "text": "Ma'lumotlar bazasi – bu serverda joylashgan bir yoki bir necha fayllardan tashkil topgan, shu serverga yig'iladigan va so'rovlar orqali nazorat qilib boriladigan ma'lumotlardir. Ma'lumotlar bazasi mantiqiy va jismoniy ko'rinishda bo'lishi mumkin. Mantiqiy ko'rinishdagi ma'lumotlar bazasining asosini jadvallar tashkil etadi. Jadvallar ustun va qatorlardan tashkil topgan bo'lib, ular birlashgan joy(yacheyka) da ma'lumotlarni saqlaydi. Bu ko'rinishdagi ma'lumotlar bazasi \" реляционная база данных \" deyiladi. Baza eng kamida jadvaldan tashkil topgan bo'lishi shart, bu shart ma'lumotlar bazasi mavjud bo'lishning eng minimum shartidir."
+      },
+      {
+        "text": "Bazada saqlanayotgan ma'lumotlarni xafsizligini saqlash maqsadida Oracle(MBBT) da juda ko'p ishlar amalga oshirilgan, biz ularni keyingi maqolalarda ko'ramiz. Ma'lumotlar bazasini tashkil etgan fayllarni: ma'lumotlar bazasi fayllari va ma'lumotlar bazasiga tegishli bo'lmagan fayllar ko'rinishida ajratishimiz mumkin. Ma'lumotlar bazasi fayllarida ma'lumotlar saqlanadi, ma'lumotlar bazasiga tegishli bo'lmagan fayllarda har xil protokollar, sozlashlar kabi qo'shimcha ma'lumotlar saqlanadi. Bu ma'lumotlar bilan Oracle administratorlari ruxsat bergan foydalanuvchilargina ishlay oladi."
+      },
+      {
+        "text": "Oracle ning juda ko'p utilitlari(Rman, Oracle Data Guard, Oracle Data Grid,… ) mavjud bo'lib, ular ham ma'lumotlarni foydalanuvchi uchun qulay ko'rinishda taqdim etish(boshqarish, nazorat qilish) uchun ishlatiladi. Misol tariqasida Rman utilitasini oladigan bo'lsak, bu utilita bazani to'liq yoki qisman zahira nusxalarini juda katta xajmga kamaytirib(siqib) hosil qiladi va saqlash uchun o'zi chunarli bo'lgan kodlarga aylantiradi. Bazaga shikast etganda shu zahira nusha orqali bazani qayta tiklash mumkin bo'ladi."
+      },
+      {
+        "text": "Oracle SQL kodlari orqali buyruqlarni qabul qiladi. Bu so'rov tili ma'lumotlar bazasini yuklash, uni to'xtatish, montirovka qilish, jadvallar yaratish, o'chirish, o'zgartirish, ma'lumotlar ichidan kerakligini chiqarib olish va boshqa vazifalar uchun ishlatiladi. Bu til juda ko'p Ma'lumotlar Bazasini Boshqarish Tizim lari uchun umumiy hisoblanadi. SQL kodlari bir yoki bir necha jadvallar ustida so'rovlarni amalga oshira oladi."
+      },
+      {
+        "text": "Ma'lumotlarni boshqarishda foydalanuvchilarga qulaylik yaratish maqsadida Oracle dasturi yaratuvchilari Oracle Enterprise Manager deb nomlangan web sahifa yaratishgan bo'lib, bu sahifa orqali butun Oracle ni boshqarish mumkin bo'ladi. SQL kodlarini bilmaydigan foydalanuvchilar ham bu web sahifa orqali barcha vazifalarni bajarishi mumkin, faqatgina kerakli \"ссылка\" larni bosish kifoya. Har bir ma'lumotlar bazasi uchun alohida-alohida Enterprise Manager sahifasi bo'ladi, har bir sahifa portlar orqali ajratiladi. Barcha brauzerlarda bu sahifa yaxshi namoyon bo'ladi va bazani xafsizligiga portlarni boshqarish yo'li bilan erishish mumkindir."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sizga startap ochishga xalaqit beruvchi 6 bahona",
+    "about": "Siz o'z ishingizni ochishni qachondan beri istab kelayotgan bo'lsangiz-u, biroq hanuzgacha boshlamagan bo'lsangiz, demak quyida tilga olinadigan iboralardan birini...",
+    "dataText": [
+      {
+        "text": "Siz o'z ishingizni ochishni qachondan beri istab kelayotgan bo'lsangiz-u, biroq hanuzgacha boshlamagan bo'lsangiz, demak quyida tilga olinadigan iboralardan birini bahona sifatida ishlatgansiz. Ular shunchaki bir bahona ekani va ulardan qanday qilib voz kechish mumkinligi haqida hikoya qilamiz."
+      },
+      {
+        "text": "1. «Men oilamni boqishim kerak»"
+      },
+      {
+        "text": "Ha, ilk davrlarida startaplarning aksariyati pul keltirmaydi. Biroq doimo pul ishlash uchun qo'shimcha ish topish mumkin, masalan, maslahatchi yoki frilanserlik bilan. Ish joyiga sutkalab gumdon bo'lib ketib, o'z bolalarining diydoriga to'ymaydigan ota-ona — yaxshi ota-ona emas.\n"
+      },
+      {
+        "text": "2. «Tajribam kam»"
+      },
+      {
+        "text": "Butun umr hali yosh ekanligingiz, tajribangiz kamligini aytib yurishingiz mumkin. Alaloqibatda nima bo'lishini bilasizmi? Tajribasizligingizcha qolib ketaverasiz, biroq endi yosh bo'lmaysiz."
+      },
+      {
+        "text": "3. «Bozorda raqobat yuqori»"
+      },
+      {
+        "text": "Bir qaraganda, bugun xuddi olma tushsa startapning boshiga tushadigandek ko'p ko'rinadi. Biroq bu hol ularning ortiq kerak emasligini bildirmaydi, qaytaga imkoniyat mo'l-ko'lligidan dalolat beradi. Kimki muammolarni yechib, olamga ko'pikka burkanmagan nazar bilan qarasa, albatta, mukofotlanadi."
+      },
+      {
+        "text": "4. «Shundoq ham boyman»"
+      },
+      {
+        "text": "Boy bo'lish yetarli emasligini tushuntiruvchi ikki sabab bor: birinchidan, faqat o'zingizga sarflanadigan pul lazzat keltirmaydi, ikkinchidan, startap — millionlarni ko'paytirish usuli. Axir Ilon Mask, «Ey, men shundoq ham boyman, tupurdim hammasiga», demaydi-ku?"
+      },
+      {
+        "text": "5. «Menga erkinlik kerak»"
+      },
+      {
+        "text": "Ha, startap erkinlikdan mahrum qilib, butun vaqtni egallaydi. Lekin falonchi akaga ishlashdan ko'ra buning nimasi yomon? Eng kamida, o'z oldingizga maqsad qo'yganingizdan so'ng barcha qurbonliklar nima uchunligini aniq tushuna boshlaysiz."
+      },
+      {
+        "text": "6. «Barchasi barbod bo'lishi mumkin»"
+      },
+      {
+        "text": "Yuzlab startaplar bir yil ham yashamagan. Millionlab odamlar buning uchun o'z pullarini behudaga sarflashgan. Sizning korxonangiz ham kasodga uchrashi mumkin, boz ustiga buning ehtimoli baland — 50 foiz. Xuddi shuncha ehtimollik bilan osmondan boshingizga g'isht kelib urilishi mumkin. Lekin bu uydan tashqariga chiqmasligingizga sabab bo'la olmaydi-ku, to'g'rimi?"
+      }
+    ]
+  }
+]
