@@ -9,7 +9,10 @@
     #portfolios,
     #blogs,
     #contact,
-    #article {
+    #article,
+    #technonews,
+    #languages,
+    #language-info {
         left: 0;
         width: 100%;
         padding-top: 100px;
@@ -25,6 +28,12 @@
     }
     .blogs-list {
         padding: 15px;
+    }
+    .techno-news-comp {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .languages-comp {
+        grid-gap: 20px;
     }
 }
 
@@ -47,6 +56,16 @@
         grid-gap: 20px;
         grid-template-columns: repeat(2, 1fr);
     }
+    .techno-news-comp {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .languages-comp {
+        grid-gap: 15px;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    #language-info img {
+        width: 300px;
+      }
 }
 
 @media screen and (max-width: 556px) {
@@ -55,7 +74,9 @@
     #my-resume-title,
     #blogs-title,
     #home-title,
-    #portfolios-title {
+    #portfolios-title,
+    #news-title,
+    #languages-title {
         width: 330px;
         font-size: 36px;
     }
@@ -64,7 +85,9 @@
     #my-resume-title::after,
     #blogs-title::after,
     #home-title::after,
-    #portfolios-title::after {
+    #portfolios-title::after,
+    #news-title::after,
+    #languages-title::after {
         bottom: -36px;
         font-size: 40px;
     }
@@ -130,5 +153,11 @@
     }
     .article-text {
         font-size: 12px;
+    }
+    .techno-news-comp {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .languages-comp {
+        grid-template-columns: repeat(2, 1fr);
     }
 }

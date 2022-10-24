@@ -9,12 +9,15 @@ function SideBar() {
     let list = document.getElementsByClassName('sidebar-list')
     setInterval(() => {
         a = window.location.pathname
+        let blogspath = a.slice(0, 7)
+        let languagespath = a.slice(0, 11)
         if (a === '/') list[0].classList.add('active-sidebar');
         if (a === '/about') list[1].classList.add('active-sidebar');
         if (a === '/resume') list[2].classList.add('active-sidebar');
         if (a === '/portfolios') list[3].classList.add('active-sidebar');
-        if (a === '/blogs') list[4].classList.add('active-sidebar');
-        if (a === '/contact') list[5].classList.add('active-sidebar');
+        if (a === '/blogs' || blogspath === '/blogs/') list[4].classList.add('active-sidebar');
+        if (a === '/news') list[5].classList.add('active-sidebar');
+        if (a === '/languages' || languagespath === '/languages/') list[6].classList.add('active-sidebar');
     }, 100);
 
 
@@ -39,10 +42,10 @@ function SideBar() {
                     <Link to="/" >Home</Link>
                 </li>
                 <li onClick={addclass} className="sidebar-list">
-                    <Link to="/about" >About</Link>
+                    {/* <Link to="/about" >About</Link> */}
                 </li>
                 <li onClick={addclass} className="sidebar-list">
-                    <Link to="/resume" >Resume</Link>
+                    {/* <Link to="/resume" >Resume</Link> */}
                 </li>
                 <li onClick={addclass} className="sidebar-list">
                     <Link to="/portfolios" >Portfolios</Link>
@@ -51,7 +54,10 @@ function SideBar() {
                     <Link to="/blogs" >Blogs</Link>
                 </li>
                 <li onClick={addclass} className="sidebar-list">
-                    <Link to="/contact" >Contact</Link>
+                    <Link to="/news" >Techno news</Link>
+                </li>
+                <li onClick={addclass} className="sidebar-list">
+                    <Link to="/languages" >Languages</Link>
                 </li>
             </ul>
             {/* <Outlet /> */}

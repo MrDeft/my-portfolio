@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "title": "Java haqida qisqacha",
+    "url": "https://javascript.info",
+    "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+    "images2": "https://mpng.subpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg",
+    "data": [
+      {
+        "about": "Ushbu dastur Liveware Javascript tilining avlodi boʻlib, Netscape serveri tomonidan ishlovchi vosita boʻladi. Ammo Javascript tilini mashhur qilgan narsa bu xaridor tomonidan dasturlashdir. Javascriptning asosiy vazifasi — HTML konteynerlar atributlarining qiymatlarini va koʻrsatuvchi muhitining xossalirini HTML sarlavhalarni koʻrish jarayonida foydalanuvchi tomonidan oʻzgartirish imkoniyatlarida, boshqacha aytganda ularni dinamik sarlavhalar qilish (DHTML) tushuniladi. Yana shuni aytish joizki, sarlavhalar qayta yuklanmaydi. Amalda buni, masalan, quydagicha ifodalash mumkin, sarlavhaning fonining rangini yoki hujjatdagi rasmni oʻzgartirish, yangi oyna ochish yoki ogohlantirish oynasini chiqarish."
+      },
+      {
+        "about": "„JavaScript“ nomi Netscape kompaniyasining xususiy maxsuloti hisoblanadi. Microsoft tomonidan amalga oshirilgan til rasman Jscript deb nomlanadi. Jscript versiyalari Javascriptning mos versiyalari bilan mos keladi (aniqroq qilib aytganda oxirigacha emas)."
+      },
+      {
+        "about": "Javascript, ECMA (European Computer Manufacturers Association — Yeropa kompyuter ishlab chiqaruvchilar assotsiyatsiyasi) tomonidan standartlashtirilgan. Mos standartlar quydagicha nomlanadi: ECMA-262 va ISO-16262. Ushbu standartlar bilan Javascript 1.1ga taqriban ekvivalent ECMAScript tili aniqlanadi. Eslatish joizki, bugungi kunda Javascript ning hamma versiyalari ham ECMA standartlariga mos kelavermaydi. Mazkur kurs yoki qoʻllanmada barcha hollarda biz Javascript nomidan foydalanamiz."
+      },
+      {
+        "about": "Javascript, bu Internet uchun katta boʻlmagan xaridor va server ilovalarni yaratishga moʻljallangan nisbatan oddiy jismga yoʻnaltirilgan til. Javascript tilida tuzilgan dasturlar HTML hujjatning ichiga joylashtirilib ular bilan birga uzatiladi. Kurish dasturlari (brauzerlar va hokazo) Netscape Navigator va Microsoft Internet Explorer hujjat matniga joylashtirilgan dasturlarni (Scriptkod) uzatishadi va bajarishadi. Shunday qilib, Javascript — interpritatorli dasturlash tili hisoblanadi. Javascriptda tuzilgan dasturlarga foydalanuvchi tomonidan kiritilayotgan maʼlumotlarni tekshirayotgan yoki hujjatni ochganda yoki yopganda biror bir amallarni bajaruvchi dasturlar misol boʻlishi mumkin."
+      },
+      {
+        "about": "JavaScriptʼda yaratilgan dasturlarga misol sifatida foydalanuvchi tomonidan kiritilgan maʼlumotlarni tekshiruvchi, hujjatni ochish yoki yopish vaqtida qandaydir amallarni bajaruvchi dasturlarni keltirish mumkin. Bunday dasturlar foydalanuvchi tomonidan berilgan koʻrsatmalarga — sichqoncha tugmachasini bosilishiga, maʼlumotlarni ekran orqali kiritishiga yoki sichqonchani sahifa boʻylab siljitilishiga koʻra ish bajaradi. Bundan tashqari JavaScript dagi dasturlar brauzerning olzini va hujjatning atributlarini ham boshqarishi mumkin."
+      },
+      {
+        "about": "JavaScript dasturlash tili sintaktik jihatdan Java dasturlash tiliga, jismli modellashni istisno qilgan holda, oʻxshab ketsada, lekin maʼlumotlarni statik turlari va qatʼiy tiplashtirish kabi xususiyatlarga ega boʻlmaydi. JavaScript, Java dasturlash tilidan farq qilib, sinf tushunchasi bu tilning asosiy sintaktik qurilmasi hisoblanmaydi. Bunday asos sifatida foydalanilayotgan tizim tomonidan qolllab-quvvatlanayotgan, oldindan aniqlangan maʼlumot tiplari: sonli, mantiqiy va satrli; mustaqil ham boʻlishi, jismning usuli sifatida ham ishlatilishi mumkin bollgan funksiyalar; katta sondagi uz xossalariga va usullariga ega boʻlgan hamda oldindan aniqlangan jismlardan iborat jismli model va yana dastur ichida foydalanuvchi tomonidan yangi jismlarni berish qoidalari hisoblanadi. JavaScriptʼda dasturlar yaratish uchun hech qanday qoʻshimcha vositalar kerak boʻlmaydi, faqatgina tegishli versiyadagi JavaScript qoʻllanishi mumkin boʻlgan brauzer va DHTML hujjatlarni yaratishga imkon beruvchi matn muharriri kerak boʻladi"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "title": "Java haqida",
+    "url": "https://www.java.com",
+    "images": "data:image/png;base64,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",
+    "images2": "data:image/png;base64,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",
+    "data": [
+      {
+        "about": "1. Java nima?"
+      },
+      {
+        "about": "Java yuqori darajali, mustahkam, xavfsiz va obyektga yo`naltirilgan til. Platforma: dastur bajarila oladigan ixtiyoriy apparat yoki dasturiy muhit platformadir. Javaning ham o`zini mahsus bajarilish muhiti – platformasi mavjud (JRE – Java Runtime Environment)."
+      },
+      {
+        "about": "2. Javadan qayerda foydalaniladi?"
+      },
+      {
+        "about": "“Sun” firmasi ma`lumotiga ko`ra, 3 mlrd atrofidagi qurilmalar Javani ishlatadi (eski ma`lumot, hozir undan ko`p). Mana ulardan ba`zilari:"
+      },
+      {
+        "about": "-Shaxsiy kompyuter dasturlari (Desktop Applications) – acrobat reader, media-pleyer, antiviruslar va h.k."
+      },
+      {
+        "about": "-Web-dasturlar"
+      },
+      {
+        "about": "-Korxona-tashkilotlar dasturlari (Enterprise Applications) – bank yoki ishlab chiqarishga oid dasturlar"
+      },
+      {
+        "about": "-Mobil dasturlar"
+      },
+      {
+        "about": "-Smart kartalar"
+      },
+      {
+        "about": "-Robotlar"
+      },
+      {
+        "about": "-O`yinlar"
+      },
+      {
+        "about": "3. Java (JavaScript tili bilan adashtirmang, bir-biriga o’xshash emas) dasturlari odatda bayt kodlarga (bytecode) kompilyatsiya qilinadi(class fayli tarzida) va bu har qanday Java platformasida ishlashini ta’minlaydi. Java platformasi apparat yoki dasturiy muhit bo`lishi mumkin. O`zbekstonda Javada bevosita ishlaydigan apparatlar kam uchraydi. Bizda JVM, ya`ni Java Virtual Machine keng tarqalgan."
+      },
+      {
+        "about": "4. Asosiy konsepsiyalari:"
+      },
+      {
+        "about": "Java quyidagi 5 maqsad uchun qurilgan, u shunday til bo’lishi kerakki:"
+      },
+      {
+        "about": "Oddiy, obyektga mo’ljallangan, taqsimlangan va o’rganishga oson bo’lsin."
+      },
+      {
+        "about": "Mustahkam va xavsiz bo’lsin"
+      },
+      {
+        "about": "Qaysidir qurilma platformasidan yoki uning arxitekturasidan mustaqil bo’lsin(ya’ni qaysidir platformaga tobe bo’lmasin)."
+      },
+      {
+        "about": "Juda samarali bo’lsin."
+      },
+      {
+        "about": "Dasturlash tili uchun tarjimon(interpreter) yozish mumkin bo’lsin."
+      },
+      {
+        "about": "Shuningdek dasturlash tili parallel ishlashni va dinamik tiplashda foydalanishni ta’minlay olsin."
+      },
+      {
+        "about": "5. Dunyo bo’yicha dasturlash sohasidagi eng yetakchi hisoblangan stackoverflow.com saytini 2013-2015 yillardagi tekshiruvlariga(http://stackoverflow.com/research/developer-survey- 2015#tech-lang) ko’ra server-tomon(server side) dasturlash tillari ichida Java 1-o’rinni bermay kelmoqda. Undan tashqari o’sha saytning eng ko’p beriladigan savollar uchun foydalinadigan teglarida ham Java yetakchi o`rinlarda turibdi."
+      },
+      {
+        "about": "6. Javada qanaqa dasturlar yoziladi: asosan 4 tipdagi"
+      },
+      {
+        "about": "1) Standalone applications – Linux, Mac yoki Windowsga o`rnatib, kundalik ishladatigan dasturlarimiz: mp3 pleyer, ofis, antivirus kabilar. Ular AWT, Swing yoki JavaFX texnologiyalari orqali tuziladi"
+      },
+      {
+        "about": "2) Web Applications – tarmoq orqali ishlovchi ixtiyoriy dasturlar. Eslatma: web dasturlar ikki qismdan, server tomon hamda klient tomon (brauzer) dan iborat. Javada faqat server tomoni uchun yoziladi. Bunda servlet, jsp, jsf kabi fundamental texnologiyalardan boshlab Spring, Play kabi freymworklar qo`l keladi. Umuman olganda brauzer uchun HTML, CSS hamda Java Scriptdan boshqa tilda yozib bo`lmaydi."
+      },
+      {
+        "about": "3) Enterprise Applications – bu dasturlar yirik salmoqqa ega bo`lib, odatda katta jabhalarda ishlatiladi. Banklar, tashkilotlar yoki astronomiya ishlarida. Ular yuqori havfsizlik, yuklamani (nagruzka) serverlarga teng taqsimlash (load balancing) yoki klasterlash (clustering – katta tizimdan xuddi yagona obyekt sifatida foydalanish) kabi sifatlarni talab qiladi. Javada bular bor."
+      },
+      {
+        "about": "4) Mobile Applications – Mobil qurilmalarga mos dasturlarni ham Javada yozish mumkin. Androiddan boshlab, Java ME (JME – Java Micro Edition) gacha. JME ga misol qilib, Nokia telefonlarimiz uchun ishlangan JAR o`yinlarni misol keltirish mumkin."
+      },
+      {
+        "about": "7. Javaning sintaksisi C++ ga asoslangan. Shuning uchun C++ tilini biladiganlar Javani oson o`rganishadi. Lekin undagi ko`pchilik xususiyatlar olib tashlangan. Masalan: Pointer(ko`rsatkich)lar bilan to`g`ri ishlash, ya`ni Javada alohida ko`rsatkich tushunchasi yo`q. Operatorlarni qayta yuklash ham olib tashlangan. Yana eng muhimi, ishlatilmaydigan xotira (unreferenced objects) avtomatik tozalanadi. Buni Javadagi Garbage Collector (GC – chiqindi yig`ishtirgich) amalga oshiradi. C++ da bu destruktorlar orqali qo`lda (manual – ruchnoy) qilingan. Bundan tashqari Java har bir yangi versiyada bundan qulay imkoniyatlarni qo`shib kelmoqda. Ayni paytda oxirgi versiya 8-sidir. 2014-yil 18-martda ommaga e’lon qilindi."
+      },
+      {
+        "about": "8. JRE va JDK ni nima farqi bor?"
+      },
+      {
+        "about": "JRE – Java Runtime Environment JDK – Java Development Kit JRE bu faqat dastur bajarilishi uchun kerak bo`lgan muhit, xolos. Dasturchi bo`lmagan oddiy foydalanuvchilarga Java dasturlari bajarilishi uchun JRE yetarli. JDK = JRE + dasturlashga oid qo`shimcha instrumentlar. Bu esa dasturchilarga kerak. Formuladan ko`rinib turibdiki, JDK ning hajmi JREdan katta bo`ladi. U bir marta ko`chirib o`rnatiladi xolos."
+      },
+      {
+        "about": "9. Dunyoda qancha Java dasturchilar bor?"
+      },
+      {
+        "about": "Oracle kompaniyasi tahminan 9 mln desa, Wikipedia 10 mln atrofida demoqda. NumberOf.net komandasi esa 9.007.346 sonini keltirishgan. Albatta bu statistika qaysidir vaqt uchun. Ayni paytda yana o`sib bormoqda. Javada kod yozishga mo`ljallangan Eclipse (bepul) muhiti bir yilni ichida 7 mln marta ko`chirilgan. Eng mashxur web-konteynerlardan biri bo`lgan Tomcat esa oyiga o`rtacha 550 ming, yiliga esa 6.6 mln marta ko`chirilar ekan. Dunyoda qancha odam ishsiz? Ishlilarning qanchasi dasturchi? Dasturchilarning shunchasi Javachi!"
+      },
+      {
+        "about": "10. Nima uchun aynan Javani o`rganamiz?"
+      },
+      {
+        "about": "Hozirgi kunda dasturlash tillari to`g`risidagi ayrim tortishuvlar quloqqa chalinadi. Bu til yaxshi… Yo`q, mana bunisi… Bu tilda qilingan ishni, bunisida qilib bo`lmas emish, mana bunisi eng tezi emish va hokazo. Bular xato fikrlar. Biz dasturlash tillarini imkoniyati haqida tortishayotkan bir paytda, g`arbliklar boshqa galaktikalarni o`rganib, odamni boshini boshqa tanaga ko`chirishni amallashmoqchi! Keling, bu tortishuvga bitta o`zbekona o`xshatish bilan nuqta qo`yamiz. “Lacetti yaxshi… Yo`q Nexia yo`lga zo`r… Malibu qulay va obro`li… Captiva undanam obro`li… Sparkka yetmaydi baribir va hokazo”. Sezganingizdek, bu xato tortishuv. Hammasini o`z o`rni va maqsadi bor. Dasturlash tillari ham shu kabidir. Javaning ham o`z maqsadi bor. Kerak bo`lsa, bir nechta tillardan foydalanib yagona kompleks dastur yozish mumkin."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "title": "Python haqida tushuncha",
+    "url": "https://www.python.org",
+    "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png",
+    "images2": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fc/c1b8dfbac740999b6256aca490de43/Python-Image.jpg?auto=format%2Ccompress&dpr=1",
+    "data": [
+      {
+        "about": "Python - mashhur dasturlash tili. U Guido van Rossum tomonidan 1991 yilda ishlab chiqilgan."
+      },
+      {
+        "about": "Bu dasturlash tili o'rganish uchun oson, foydalanish uchun qulay, ko'p qirrali dasturlash tili bo'lib, dasturlashga yangi kirganlar uchun ham, soha mutaxassislari uchun ham zo'r tanlov."
+      },
+      {
+        "about": "Python quyidagilar uchun ishlatiladi:"
+      },
+      {
+        "about": "• veb-ishlab chiqish (server tomonida),"
+      },
+      {
+        "about": "• dasturiy ta'minotni ishlab chiqish,"
+      },
+      {
+        "about": "• matematik amallar,"
+      },
+      {
+        "about": "• tizim skriptlari."
+      },
+      {
+        "about": "Bu dasturlash tilida nimalar qilishi mumkin?"
+      },
+      {
+        "about": "• Python serverda veb-ilovalar ishlab chiqish uchun ishlatilinishi mumkin."
+      },
+      {
+        "about": "• Python ish oqimlarini yaratish uchun dasturiy ta'minot bilan bir qatorda ishlatilishi mumkin."
+      },
+      {
+        "about": "• Python ma'lumotlar bazasi tizimlariga ulanishi mumkin. Bundan tashqari, u fayllarni o'qishi va o'zgartirishi mumkin."
+      },
+      {
+        "about": "• Python katta ma'lumotlarga ishlov berish va murakkab matematikani bajarish uchun ishlatilishi mumkin."
+      },
+      {
+        "about": "• Pythonni tezkor prototiplash yoki ishlab chiqarishga tayyor dasturiy ta'minotni ishlab chiqish uchun ishlatish mumkin."
+      },
+      {
+        "about": "Nima uchun aynan Python?"
+      },
+      {
+        "about": "• Python turli xil platformalarda ishlaydi (Windows, Mac, Linux, Raspberry Pi va boshqalar)."
+      },
+      {
+        "about": "• Python ingliz tiliga o'xshash oddiy sintaksisga ega."
+      },
+      {
+        "about": "• Python dasturlash tiliga bo'lgan talab yildan yilga oshib kelmoqda. CodingDojo portalining tadqiqotlariga ko'ra, 2020 yilda aynan Python tilida dasturlovchi mutaxassislarga eng ko'p talab bo'lgan."
+      },
+      {
+        "about": "• Python Artificial Intelligence (Sun'iy intellekt) va Data Science (Ulkan ma'lumotlar bilan ishlash) sohalarining tili hisoblanadi. Bugungi kunda keng ommalashib borayotgan sun'iy intellekt asosida ishlovchi dasturlarning aksari Pythonda yozilgan. Bu sohalardagi mutaxassislar bugungi kunda eng noyob va qimmatbaho kadrlar hisoblanadi."
+      },
+      {
+        "about": "• Keng qamrovli va universal til. Python dasturlari deyarli barcha operativ tizimlarda va platformalarda ishlaydi."
+      },
+      {
+        "about": "• O'rganish uchun ham, tushunish uchun ham juda qulay va sodda kod."
+      },
+      {
+        "about": "• Moslashuvchanlik —Python dasturlash tili ma'lum bir masalalarni yechish bilan chegaralanmagan. Bu til dasturchilarga yangi va yangi yo'nalishlarga ki'rish imkonini beradi. Python quyidagi sohalarda qo'llaniladi: Web va Internet dasturlash, kompyuter o'yinlarini yaratish, ma'lumotlar bazasi bilan ishlash (DB), computer vision, foydalanuvchilar uchun grafik interfeys (GUI), juda tez rivojlanayotgan buyumlar interneti (IoT) texnologiyasi va hokazo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "PHP",
+    "title": "PHP haqida va uning tarixi",
+    "url": "https://www.php.net",
+    "images": "https://surniaulula.com/wp-content/uploads/2014/03/php-logo-1200x1200-cropped.png",
+    "images2": "https://upload.wikimedia.org/wikipedia/commons/0/05/AnantP%40php.png",
+    "data": [
+      {
+        "about": "1994 yili PHP tilinig yaratuvchisi Rasmus Lerdorf o‘zinig saytiga mehmonlar kirishini hisoblash uchun Perl dasturlash tilida maxsus qobiq yozib amalda qo‘llagan. Ko‘p o‘tmay qobiqni ishlash unumdorligi juda past va sekinligi aniqlanganidan so‘ng, dasturlarni yangidan “S” tilida yozib chiqishga to‘g‘ri keladi. Keyin, dastlabki dastur kodlari muallif tarafidan barchaga ko‘rish uchun serverga nashr qilingan. Server foydalanuvchilari kodlar bilan qiziqib, uni ishlatish muxlislari ham paydo bo‘lgan."
+      },
+      {
+        "about": "Hademay, bu dasturlar alohida loyihaga aylanib, 1995 yilning iyun oyida dasturiy mahsulot   PHP (Personal Home Page) nomi bilan birinchi nashri chiqarildi."
+      },
+      {
+        "about": "1996 yil aprel oyida dasturlar jiddiy qayta ishlanganidan so‘ng, PHP/FI (Personal Home Page / Forms Interpreter) nomi bilan mahsulotning ikkinchi nashri paydo bo‘ldi. Bu mahsulot HTML-kod ichiga yozilib, HTML-formalarni qayta ishlab, hozirgi PHP dasturlash tilining tayanch imkoniytlarini ichiga olgan. PHP/FI kod yozilishi Perl tiliga juda oxshagan, lekin soddaroq bo‘lgan."
+      },
+      {
+        "about": "1997 yili PHP/FI 2.0 nashri chiqdi. O‘sha paytda bu mahsulot bilan dunyo bo‘yicha bir necha ming odam foydalanib, taxminan 50 ming domen bo‘lib, Internetning 1%-ni tashkil qildi."
+      },
+      {
+        "about": "1997 yilda Endi Gutmans va Ziv Suraski PHP/FI kodini boshqatdan yozib chiqishdi, chunki eski kod ular ishlatayotgan elektron tijorat tizimlari uchun yaroqsiz edi. Eski kodning mualliflaridan yordam olish uchun ular birlashishni taklif etib, PHP3 nomli loyihani PHP/FI -ning rasmiy vorisi deb e’lon qilishdi. Yangi loyiha uyushgandan keyin PHP/FI loyihasi ishlab chiqarilishi to‘xtatilgan."
+      },
+      {
+        "about": "PHP 3.0 -ning eng kuchli taraflaridan biri uning kengaytirala olinadigan yadrosi (tizimning boshqaruv qismi) bo‘lib, bundan tashqari, ma’lumot jamg‘armalar bilan, turli protokollar va interfeyslar bilan birgalikda ishlash keng imkoniyatlari yaratildi. Muvaffaqiyatga erishishga ancha ahamiyatli fakt bu yangi tilni boyligi va ob’yektlarga mo‘ljallangan dasturlashni qo‘llay olishi. Yangi loyiha bilan birga nafaqat tilni tashqi, ichki tuzulishi o‘zgardi, balki o‘zini nomi ham. Endi PHP qisqartmasi “PHP: Hypertext Preprocessor” ma’nosini anglatishi bildirildi."
+      },
+      {
+        "about": "1998 yilning oxirida PHP foydalanuvchilarining soni o‘n minglardan oshdi. Yuz mingdan oshiq veb-saytlar bu tilni qo‘llashini e’lon qilishdi. Taxminan Internetning 10% serverlarida PHP 3.0 o‘rnatilgan edi."
+      },
+      {
+        "about": "1998 yilning iyun oyda PHP3 to‘qqiz oy ommaviy tekshiruvidan keyin rasman e’lon qilindi. Shu yilning qishida Endi Gutmans va Ziv Suraski PHP yadrosini qaytadan ishlab chiqarishni boshlashgan. Ularning asosiy vazifasi PHP tizimining unumdorligini ko‘tarish va kodning modullarini yaxshilash edi."
+      },
+      {
+        "about": "1999 yilning o‘rtalarida birinchi marta taqdim qilingan yangi yadro “Zend Engine” deb nomlangan. Uni asosida tuzilgan yangi til PHP4 2000 yilning may oyida rasman chiqarilgan. Unumdorlik yaxshilangandan tashqari, PHP 4.0 muhim yangiliklarga ega bo‘lib, sessiyalarni qo‘llash, buferli chiqarish, kiritilgan ma’lumotlarni havfsiz qayta ishlash va yana bir necha yangi til tuzuvchilarini paydo bo‘lishidan iborat."
+      },
+      {
+        "about": "Hozirgi kunlarda “Zend Engine” qayta yaxshilanib PHP5 tili ishlab chiqarildi. Asosiy o‘zgarishlar ob’yektlarga mo‘ljallangan dasturlash modelida bo‘lib, tilning imkoniyatlarini yanada kengaytirdi."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "C",
+    "title": "",
+    "url": "https://www.cprogramming.com",
+    "images": "https://codingskillshome.files.wordpress.com/2018/11/c-programming.png?w=1200",
+    "images2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFzIMEcLGSWldRByZsXalyPBssHs0MwWcOA&usqp=CAU",
+    "data": [
+      {
+        "about": "C (/siː/) — kompilyatsiyalanuvchi statik dasturlash tili boʻlib, 1969-1973-yillarda Bell laboratoriyasi xodimi Dennis Ritchie tomonidan yaratilgan. Ushbu dasturlash tili B tilining takomillashgan koʻrinishi sifatida yaratilgan. Dastlab UNIX operatsion tizimini yaratish maqsadida ishlab chiqilgan, keyinchalik esa boshqa koʻplab platformalar bilan ishlashga ham moslashtirilgan. Dizayni hamda strukturasiga koʻra, ushbu til quyi darajadagi dasturlash tillariga yaqin. Baʼzi xususiyatlari bilan assembler tiliga ham oʻxshab ketadi. C dasturlash tili dasturiy taʼminot industriyasining rivojlanishiga juda katta taʼsir oʻtkazgan. Uning sintaksisi esa C++, C#, Java, Objective-C va boshqa koʻplab dasturlash tillari uchun asos boʻlib xizmat qildi."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "C++",
+    "title": "C++ haqida va uning tarixi",
+    "url": "https://isocpp.org",
+    "images2": "https://www.texnoman.uz/uploads/blogs/aff74cdc77c141f65dca4f2b755cb9a7.png",
+    "images": "data:image/png;base64,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",
+    "data": [
+      {
+        "about": "Bu maqolamda hozirgi zamonda eng rivojlangan dasturlash tillaridan biri bo'lgan C++ dasturlash tili haqida yozmoqchiman. Bu til tarixi va kelib chiqishi haqida qisqacha yozib, keyingi maqolalarda bu tilda dasturlar tuzishni asta sekinlik bilan o'rgatib o'taman."
+      },
+      {
+        "about": "Dastlab UNIX operatsion tizimi va C dasturlash tili yaratilgan va C tili asosida C++ tili yaratildi. C esa o'z navbatida B va BCPL tillaridan kelib chiqgan."
+      },
+      {
+        "about": "C++ tilini 80 yillarda AT&T Bell Labs korxonasi ishchisi Byarnom Straustrup tuzgan. Avtorning aytishicha, bu tilni tuzishda u hech qanday qog'ozlarni qoralamagan va hamma ishni yo'l yo'lakay, ketma-ketlikda tuzib chiqqan. Uning asosiy maqsadi, o'zi va do'stlari uchun qulay dasturlash tili yaratishdan iborat edi. C++ dasturlash tilining asosi C hisoblanadi va shu tilni(C) misolida C++ tilini tuzib chiqdi. C dasturlash tilini mukammalashtirgan eng asosiy narsa bu – ob'yektga mo'ljallangan dasturlashni olib kirgani hisoblanadi. Chunki dasturlashda, tez, qulay , tartibli va ixcham yozish uchun ob'yektga mo'ljallangan dasturlash tillaridan foydalanish lozim bo'ladi. Dastlabki C++ dasturlash tilidan foydalanganlar, bu albatta Bell Labs korxonasi hodimlari hisoblanadi."
+      },
+      {
+        "about": "1993 yilda bu til ommaga taqdim etildi va C++ nomini oldi. Dastlabki C++ ga oid kitob \"The C++ Programming Language(Addison-Wesley, 1985)\" nomi bilan mashhur bo'ldi va bu kitob 1991 yil \"Язык программирование C++\" tarjimasi bilan rus tiliga tarjima qilindi va bu til(C++) rivojlanishi boshlanib ketdi."
+      },
+      {
+        "about": "ANSI-ISO (ANSI X3J16; ISO WG21/N0836) birlashmasi 1989 yilda, birlashga holda ish boshladi. Bu korxonaning dastlabki ishi C++ dasturlash tiliga va uning kutubxonasiga standart ishlab chiqishdan boshlandi. Buning uchun 1990 yildagi C++ tili asos qilib olindi."
+      },
+      {
+        "about": "1990 yilda C++ standarti ishlab chiqildi va bu standart hozir ANSI C nomi bilan mashxur. Bu til juda kengayib ketdi va hozirgi kunda bu tilning hamma detallarini biladigan dasturchi bo'lmasa kerak."
+      },
+      {
+        "about": "C++ funksiya va ob'yektlarning boy kutubxonasiga ega. Bundan kelib chiqadiki C++ dasturlash tilini o'rganish 2 qismga bo'linadi: dastlab, C++ tili sintaksisi o'rganiladi vv shundan so'ng uning asosiy kutubxonalari birma-bir ko'rib chiqib, yodlash lozim bo'ladi. Bundan ko'rinib turibdiki, bu til juda katta hajmni o'z qamroviga oladi."
+      },
+      {
+        "about": "C++ tilining egasi yo'q u hech kimga tegishli emas. Bu til C tilidan kelib chiqgani uchun bosh harf C, ++ esa bu tildagi qiymatni bittaga ko'tarish belgisi hisoblanadi va bu belgi C++ dasturlash tilida paydo bo'ldi."
+      },
+      {
+        "about": "C++ dasturlash tili kompilyatsiya qilinadigan til hisoblanadi bu degani yozilgan kod oldin mashina tiliga o'giriladi va keyin ishga tushiriladi."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "C#",
+    "title": "",
+    "url": "https://csharp-station.com",
+    "images": "https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTc0NDczMTM4OTg0NDYxOTU4/a-brief-introduction-to-c.png",
+    "images2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png",
+    "data": [
+      {
+        "about": "Kompyuter tillari oʻz-oʻzidan emas, balki oʻzaro bir-biriga bogʻliqlikda mavjud boʻladi. Har qanday yangi til u yoki bu shaklda oldingi yaratilgan tillarning xossalarini oʻziga meros qilib oladi, yaʼni ketma-ketlik prinsipi amalga oshiriladi. Natijada bitta tilning imkoniyatlari boshqalari tomonidan foydalaniladi (masalan, yangi xususiyatlar mavjud kontekstga birlashtiriladi, tilning eski tuzilishlari esa oʻchirib yuboriladi). Kompyuter tillarining evolyutsiyasi shunday tarzda roʻy beradi va dasturlash mahorati takomillashtiriladi. C# tili yuqoridagilardan istisno emas, u boshqa dasturlash tillarining koʻplab foydali imkoniyatlarini meros qilib oldi va dunyoda eng koʻp qoʻllaniladigan ikkita kompyuter tillari — Ci, C++, shuningdek Java tili bilan uzviy bogʻliqdir. C# tili 1972 yilda Nyu-Djersi shtatining Myurrey-xill shahrida Bell Laboratories kompaniyasining tizimli dastur tuzuvchisi Dennis Richie tomonidan yaratilgan. Bu til oʻzini shunchalik yaxshi koʻrsatdiki, oxir oqibatda unda Unix operatsion tizimlarining 90 % yadro kodlari yozildi (oldin quyi darajadagi til assemblerda yozilgan). C# ning vujudga kelishidan oldinroq yaratilgan tillardan, (Pascal ulardan eng mashhuri hisoblanadi), yetarli darajada muvaffaqiyatli foydalanilgan, lekin aynan C# tili dasturlashning zamonaviy davri boshlanishini belgilab berdi. 1960-yillarda dasturlash texnologiyalaridagi strukturaviy dasturlashlarning paydo boʻlishiga olib kelgan inqilobiy oʻzgarishlar C# tilini yaratish uchun asosiy imkoniyatlarni belgilab berdi. Strukturaviy dasturlashlarning paydo boʻlishiga qadar katta dasturlarni yozish qiyin boʻlgan, satr kodlari miqdorining oshishi sababli dasturlarning oʻtish joylari chalkash massalariga aylanib ketishiga olib keladi. Strukturaviy tillar dastur tuzuvchi instrumentariysiga shartli operatorlarni, lokal oʻzgaradigan tartiblarni va boshqa mukammallashtirishlarni qoʻshib bu muammoni hal qildi. Shunday tarzda nisbatan katta dasturlarni yozish imkoniyati vujudga keldi. Aynan C# tili kuch, elegantlik va maʼnodorlikni oʻzida muvaffaqiyatli birlashtirgan birinchi strukturaviy til boʻldi. Uning boʻlishi mumkin boʻlgan xatolar masʼuliyatini tilga emas dastur tuzuvchi zimmasiga yuklaydigan prinsiplar bilan inobatga olgan holda sintaksisdan foydalanishdagi qisqalik va osonlik kabi xususiyatlari tezda koʻplab tarafdorlarini topdi. Bugungi kunda biz mazkur sifatlarni oʻz oʻzidan anglashiladigan deb hisoblaymiz, lekin S da birinchi marotaba dastur tuzuvchiga zarur boʻlgan ajoyib yangi imkoniyatlar mujassamlashtirilgan. Natijada 1980 yillardan boshlab S strukturaviy dasturlash tillari orasida eng koʻp foydalaniladiganlaridan biri boʻlib qoldi. Biroq, dasturlashning rivojlantirish choralariga koʻra bundanda kattaroq dasturlarni qayta ishlash muammosi kelib chiqmoqda. Loyiha kodi maʼlum bir hajmga yetgan zahoti (uning raqamli ahamiyati dastur, dastur tuzuvchi, foydalanilgan instrumentlarga bogʻliq boʻladi, lekin taxminan 5000 satr kodlari nazarda tutilayapti) S-dasturlarini tushunish va kuzatib borishda qiyinchiliklar yuzaga keladi."
+      },
+      {
+        "about": "1970 yillar oxirida koʻplab loyihalar S strukturaviy dasturlash tili yordamida qayta ishlash uchun oson boʻlgan eng yuqori hajmga erishgan. Endi bularga yangicha munosabat talab qilina boshlandi va ushbu muammoni hal etish uchun dastur tuzuvchiga katta hajmdagi dasturlar bilan ishlash imkonini beruvchi obʼektga yoʻnaltirilgan dasturlash (OYD) yaratildi. Hamonki, oʻsha vaqtda S eng ommabop til boʻlishiga qaramasdan OYD ni qoʻllab-quvvatlamadi, uning obʼektga yoʻnaltirilgan (keyinchalik C++ deb atalgan) versiyasini yaratish zarurati tugʻildi. Bu versiya oʻsha Bell Laboratories kompaniyasining xodimi Brian Straustrup tomonidan 1979 yil boshida ishlab chiqilgan. Dastlab yangi til „C sinflar bilan“ degan nom oldi, lekin 1983 yilda C++ deb qayta nomlangan. U oʻzida C tilini toʻla qamrab oladi (yaʼni, C C++ uchun poydevor boʻlib xizmat qiladi) va obʼektga yoʻnaltirilgan dasturlashni qoʻllab-quvvatlash uchun moʻljallangan yangi imkoniyatlarni namoyon qiladi. Aslida C++ C tilining obʼektga yoʻnaltirilgan versiyasi hisoblanadi, shuning uchun C ni biluvchi dastur tuzuvchi uchun C++ da dasturlashga oʻtishda yangi tilni emas, balki faqatgina OYD ning yangi konsepsiyasini oʻrganish kifoya qiladi. C++ tili uzoq vaqt mobaynida sifatga etibor bermay, faqat miqdor oshirish, hajmni kengaytirish jihatidan rivojlandi va soya ostida qolib ketdi. 1990 yillar boshida u ommaviy ravishda qoʻllanila boshlandi va katta yutuqlarga erishdi, oʻn yillikning oxirida esa dasturiy taʼminotni qayta ishlashda eng keng foydalaniladigan va bugungi kunda ham peshqadamlik qilayotgan tilga aylandi. Shuni anglash muhimki, C++ ni ishlab chiqilishi yangi dasturlash tilini yaratishga intilish hisoblanmaydi, balki faqatgina etarli darajada muvaffaqiyatli tilni takomillashtirayapti va toʻldirayapti. Bunday qarash, hozirda ham kompyuter tillarini rivojlantirishning yangi yoʻnalishlarida qoʻllanilayapti."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ruby",
+    "title": "Ruby nima?",
+    "url": "https://www.ruby-lang.org",
+    "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png",
+    "images2": "https://coralogix.com/wp-content/uploads/2018/04/Ruby.jpg",
+    "data": [
+      {
+        "about": "Ruby obyekt-orientedizatsiya tillari orasida noyobdir. Bir ma'noda ob'ektga asoslangan tillarni sevadiganlar uchun purist tilidir. Har bir narsa, istisnosiz, avtomatik ravishda ob'ektdir, boshqa dasturlash tillarida bu to'g'ri emas."
+      },
+      {
+        "about": "Ob'ekt nima? Bir ma'noda siz uni avtomobil qurish uchun o'ylashingiz mumkin. Agar u siz uchun rejaga ega bo'lsa, unda ob'ekt bu rejadan tuzilgan narsadir."
+      },
+      {
+        "about": "Ob'ektni ushlab turadigan barcha xususiyatlarini (ya'ni, model, rang) va bajarishi mumkin bo'lgan amallarni o'z ichiga oladi. Biroq, sof ob'ektga yo'naltirilgan til sifatida ham, Ruby ob'ektga asoslangan dasturlash bilan bevosita bog'liq bo'lmagan funktsiyalarni tashlab, mavjudliklarni yoki moslashuvchanlikni qurbon qilmaydi."
+      },
+      {
+        "about": "Rubinning me'mori Yukixiro Matsumoto (veb-saytdagi oddiy \"Matz\" deb nomlanuvchi) tilni dasturchilarni ishga tushirish uchun etarli darajada sodda bo'lishini, tajribali dasturchilar uchun zarur bo'lgan barcha vositalarni yaratish uchun etarlicha qudratli qilib yaratdi. Bu qarama-qarshilikka o'xshaydi, lekin bu ikkiyuzlamachilik Ruby ning sof ob'ektga asoslangan dizayni va Matzning Perl, Smalltalk va Lisp kabi boshqa tillardagi xususiyatlarini diqqat bilan tanlab olishiga bog'liq."
+      },
+      {
+        "about": "Ruby'ga ega bo'lgan barcha dasturlarni yaratish uchun kutubxonalar mavjud: XML parserlari, GUI bog'lamlari, tarmoq protokollari, o'yin kutubxonalari va boshqalar. Ruby dasturchilari ham kuchli RubyGems dasturiga kirish imkoniyatiga egalar."
+      },
+      {
+        "about": "Perlning CPAN bilan solishtiradigan bo'lsak, RubyGems boshqa dasturchilar kutubxonalarini o'z dasturlariga kiritishni osonlashtiradi."
+      },
+      {
+        "about": "Har qanday dasturiy tilida bo'lgani kabi, Ruby o'zining pastki qismiga ham ega. Bu yuqori sifatli dasturlash tili emas. Shu nuqtai nazardan, Python virtual mashinasozlik dizayni katta afzalliklarga ega."
+      },
+      {
+        "about": "Bundan tashqari, ob'ektga yo'naltirilgan metodologiyani yoqtirmasangiz, Ruby siz uchun emas."
+      },
+      {
+        "about": "Ruby'ning ob'ektga asoslangan tillar hududidan tashqaridagi ba'zi xususiyatlarga ega bo'lishiga qaramasdan, ob'ektga asoslangan xususiyatlardan foydalanmasdan noyob bo'lmagan Ruby dasturini yaratish mumkin emas. Ruby har doim xom xisoblash vazifalaridagi kabi boshqa skript tillarini ham bajarmaydi. Aytish joizki, kelajakdagi versiyalar bu muammolarni hal qiladi va JRuby kabi muqobil dasturlar ushbu masalalar bo'yicha vaqtinchalik hal bo'lishi mumkin."
+      },
+      {
+        "about": "Ruby qanday ishlatiladi?"
+      },
+      {
+        "about": "Ruby matnni ishlash va \"yopishtiruvchi\" yoki qavatni dasturlari kabi odatiy skript tilidagi ilovalarda ishlatiladi. Bu o'tmishda, Perl bilan hal qilingan bo'lishi mumkin bo'lgan kichik, vaqtinchalik skript vazifalari uchun javob beradi. Ruby'dagi kichik dasturlarni yozish siz uchun kerakli modullarni import qilish va deyarli BASIC-ga o'xshash \"voqealar qatori\" turini yozish kabi osondir."
+      },
+      {
+        "about": "Perl kabi, Ruby ham birinchi darajali muntazam ifodalarga ega, bu matnni yozishni skriptlarni yozib olishni osonlashtiradi. Moslashuvchan sintaksis ham kichik skriptlarda yordam beradi. Ba'zi ob'ektga yo'naltirilgan tillar bilan batafsil va katta hajmli kodlarga ega bo'lishingiz mumkin, ammo Ruby sizni ssenariyingizdan tashvishga soladi."
+      },
+      {
+        "about": "Ruby katta dasturiy ta'minot tizimlari uchun ham javob beradi. Uning eng muvaffaqiyatli dasturiy ta'minotini Ruby on Rails veb-ramkasida , beshta katta kichik tizimga, ko'p sonli kichik qismlarga va qo'llab-quvvatlovchi buyruq fayllari, ma'lumotlar bazalari arxivlari va kutubxonalarga ega bo'lgan dasturiy ta'minot."
+      },
+      {
+        "about": "Katta tizimlar yaratilishiga yordam berish uchun, Ruby sinf va modulni o'z ichiga olgan bir necha bo'limlarni ajratishni taklif qiladi. Uning ortiqcha funktsiyalarining etishmasligi dasturchilarga katta dasturiy ta'minot tizimlarini yozish va ulardan foydalanish imkonini bermaydi."
+      },
+      {
+        "about": "Qanday qobiliyatlar Rubyni o'rganish uchun foydali bo'lar edi?"
+      },
+      {
+        "about": "• Ob'ektga yo'naltirilgan tushunchalarni mustahkam tushunish. Ruby obyektga yo'naltirilgan til bo'lib, obyektga yo'naltirilgan xususiyatlar butun davomida ishlatiladi. Ushbu muhim tanlovsiz, siz Ruby dasturchisi sifatida kurashasiz."
+      },
+      {
+        "about": "• Funktsional dasturiy ma'lumotlarning bir qismi. Bu Ruby blokni yoki \"yopish\" ni keng ishlatishda foydalidir. Ammo, bu qobiliyatga ega bo'lmaslik ham oson emas. Bloklarni yaratish Rubyni o'rganishda osonlikcha o'rganilishi mumkin bo'lgan xususiyatdir."
+      },
+      {
+        "about": "• Bir oz navigatsion nou-xau. Ruby buyruq faylini ishlatishning asosiy usuli buyruq satridan. Kataloglarni qanday boshqarishni bilib olish, skriptni ishga tushirish va kirish va chiqishni qayta yo'naltirish Ruby dasturchilariga kerakli ko'nikmalardir."
+      },
+      {
+        "about": "Ruby uchun kerakli ilovalar va asboblar"
+      },
+      {
+        "about": "• Ruby tarjimoni"
+      },
+      {
+        "about": "• Notepad ++, Scite yoki Vim kabi matn tahrirlovchisi. Wordpad yoki Microsoft Word kabi Word protsessorlari mos kelmaydi."
+      },
+      {
+        "about": "• Buyruqning ruxsati. Buning tafsilotlari platformadan platformaga, Linux, Windows va OSXga qarama-qarshiliklar mavjud bo'lsa-da, buning hech qanday qo'shimcha yuklamasdan yoki dasturiy ta'minotni o'rnatmasdan foydalanish mumkin."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Go",
+    "title": "Go - oson, ishonchli va samarali dasturlash tili",
+    "url": "https://go.dev",
+    "images": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f6/9da1d0ba8211e78191fdf17a4d6aa3/GOrdonGOpher_Golang_C1.jpg?auto=format%2Ccompress&dpr=1",
+    "images2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHpY_T5kZQCSEmUvurjZmli3IU5_5OqINeSGKrJwbd1cY-PO97p9W9OJXuFndyJymB1c&usqp=CAU",
+    "data": [
+      {
+        "about": "Google kompaniyasi o'zining shaxsiy dasturlash tilini ishlab chiqganligi ko'pchilikka sir emas. Bugungi kunda ushbu kompaniya texnologiya sohasida tassavur qilish mumkin bo'lgan har qanday yo'nalishga shiddat bilan kirib, o'z inqiloblarini hosil qilishmoqda. Xuddi shu kabi Google kompaniyasining asosiy \"muloqot\" tili hisoblangan Go dasturlash tili 2007-yilda Robert Griesemer, Rob Pike va Ken Tompsonlar tomonidan ishlab chiqilgan bo'lib, 2009-yilda rasman ochiq kodli dasturlash tili sifatida ommaga taqdim etilgan. To'g'ri u JavaScript yoki Python kabi dasturlash tillari kabi mashxur bo'lib ulgurmagan bo'lsada, Go dasturlash tili foydalanuvchilarga ko'plab imkoniyatlar yaratib bera oladi."
+      },
+      {
+        "about": "Foydalanish uchun oson"
+      },
+      {
+        "about": "Go JavaScript yoki Pythondek ommalashmagan bo'lsada, ularni bog'lab turadigan bitta umumiy jihat bor: tushunish va o'rganish juda oson. Ammo bu sintaksis yangi yaratilgan tillardan ko'ra ko'proq afzalliklarga ega. Sababi, uni o'qish oson bo'lib, bir nechta dasturchilarga bir-birlarining dastur bloklarini to'ldirib ketish imkoniyatini taqdim etadi. Ushbu til sintaksis jihatdan C dasturlash tillariga o'xshab ketadi."
+      },
+      {
+        "about": "Aqlli kutubxona"
+      },
+      {
+        "about": "Go foydalanuvchilari qo'shimcha kutubxonalarni yuklab olmasdan turib shu tilda mavjud bo'lgan kutubxonalardan foydalangan holatda ham o'zlariga ma'qul bo'lgan dasturlarni yarata oladilar. Bu Go dasturlash dunyosiga eng aqlli qo'shimchalardan biri bo'lib, ular sizning ma'lumotlar bloklaringizga ma'lumotlar tuzilmalarini qo'shishning sodda usulini taklif etadi. Boshqa tillarda murakkab ishlashni talab qiladigan bir qator vazifalarni Go interfeysi orqali bitta qatorli kod yordamida bajarish mumkin."
+      },
+      {
+        "about": "Googlening asosiy dasturlash tili"
+      },
+      {
+        "about": "Googlening yaqin orada biror sohaga kirmasligi qiyin masala. Shu bilan bir qatorda ushbu yaqin orada unga raqobatdosh qidiruv tizimi yuzaga chiqishi ham dargumon. Google hatto software ishlab chiqaruvchi sifatida Microsoft kompaniyasini ham chetga sura olgan kuchli kompaniya sifatida e'tirof etiladi. Go dasturlash tili bu ularning asosiy ish quroli bo'lib, yaqin orada ushbu til o'z o'rnini boshqa tilga bo'shatib bermaydi. Demak, Go hali uzoq yillar Google kompaniyasi arxitekturasida uzoq vaqt davomida katta ro'l o'ynashiga amin bo'lasiz."
+      },
+      {
+        "about": "Aqlli hujjatlar"
+      },
+      {
+        "about": "Go - yozish va o'qish uchun juda sodda til bo'lsa-da, bu dasturlarni hujjatlashtirish zaruratini yo'qqa chiqarmaydi. Barcha funksiyalar va kutubxonalarni hujjatlashtirish uchun standart qoidalar mavjud va hujjatlarni joyiga qo'yishni unutganingizda Google tili sizni ogohlantiradi. Bu yosh dasturchilar uchun ayniqsa qimmatli narsadir, chunki ular tezkor hujjatlar bilan ishlashga odatlanib qolishadi."
+      },
+      {
+        "about": "Yuqori darajadagi xavfsizlik"
+      },
+      {
+        "about": "Oddiy kod, odatda, murakkab koddan xavfsizroqdir va bu aynan Goga tegishli. Statik yozilgan til sifatida siz yanada dinamik tillarda mavjud bo'lgan o'zgaruvchan turlarning sonidan kelib chiqadigan xatolarni aniqlash qiyin va murakkab emas. Shu bilan bir qatorda unda dastur kodingizni oshib ketmasligi uchun ortiqcha kodlarni yig'adigan maxsus xotira qutisi ham mavjuddir. Garchi generiklarning yo'qligi kodlarni ishlatadigan testlarni sinchkovlik bilan bajarish kerakligini anglatsa-da, xatolarni aniqlash boshqa alternativalarga qaraganda osonroq va umuman toza kodni yozishda yanada yaxshiroq yondoshishga yordam beradi."
+      },
+      {
+        "about": "Go ning asosiy kamchiligi"
+      },
+      {
+        "about": "Ushbu dasturlash tiling eng katta afzalligi bir paytning o'zida undagi eng katta kamchilikni ham keltirib chiqaradi. Go o'rganish uchun juda oson til bo'lishi mumkin, lekin bu uning serqirraligiga salbiy ta'sir keltirib chiqaradi. Dasturlash bozorida foydalaniladigan Swift va Haskell kabi murakkab tillarni o'rganish qiyin ammo ular o'z mavhumligi bilan dasturchilar salohiyatini oshirishga katta hissa qo'shadilar. Bu esa dasturchilar uchun juda ahamiyatli jarayondir."
+      }
+    ]
+  }
+]

@@ -13,8 +13,8 @@ function Article() {
         <div id='article' className='article'>
             <button onClick={closeFunc} id='close-article'>Close</button>
             <h1 className='article-title'>{user.title}</h1>
-            {user.dataText.map(e => (
-                <p className='article-text'>{e.text}</p>
+            {user.dataText.map((e, index) => (
+                <p key={index} className='article-text'>{e.text}</p>
             ))}
         </div>
     )

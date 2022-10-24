@@ -12,7 +12,7 @@
       }
     ]
   },
-  
+
   {
     "id": 2,
     "title": "API nima? Boshlovchilar uchun oddiy tushuncha",
@@ -200,6 +200,116 @@
       },
       {
         "text": "Yuzlab startaplar bir yil ham yashamagan. Millionlab odamlar buning uchun o'z pullarini behudaga sarflashgan. Sizning korxonangiz ham kasodga uchrashi mumkin, boz ustiga buning ehtimoli baland — 50 foiz. Xuddi shuncha ehtimollik bilan osmondan boshingizga g'isht kelib urilishi mumkin. Lekin bu uydan tashqariga chiqmasligingizga sabab bo'la olmaydi-ku, to'g'rimi?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Dasturlash tillari va script tillar farqi",
+    "about": "Ko'pincha odamlar script til va dasturlash tilini sinonim o'rnida ishlatishadi, lekin bular o'rtasida katta farq bor",
+    "dataText": [
+      {
+        "text": "Ko'pincha odamlar script til va dasturlash tilini sinonim o'rnida ishlatishadi, lekin bular o'rtasida katta farq bor. Barcha script tillar dasturlash tili lekin hamma dasturlash tillari script til emas."
+      },
+      {
+        "text": "Ancha yillar oldin dasturlash tillari yordamida PowerPoint, Internet Explorer, Microsoft Excel, Microsoft Word va juda ko'p shu kabi dasturlar yozilgan. Biroq, vaqt o'tishi bilan dasturlash tillarini qo'shimcha funktsiyalarni kiritish va takomillashtirilgan dasturlash interfeysi bilan ta'minlash uchun yangilash zarurati paydo bo'ldi."
+      },
+      {
+        "text": "Script tillar va dasturlash tillari orasidagi asosiy farqlardan biri kodlarni ijro etishida. Ya'ni dasturlash tillari yuqori darajali dasturlash (odam chunadigan kod) tilidan mashina kodiga (komputer chunadigan kod) compiler yordamida o'giradi, script tillar esa bu ishda interpereter ishlatadi. Interpreter va Compiler haqida dasturlash asoslarini 2-darsida ma'lumot bergandim. Yana takrorlab o'taman. Compiler kodni to'liq o'giradi, Interpreter esa qatorma qator kodni mashina tiliga o'giradi."
+      },
+      {
+        "text": "Keling, dasturlash tili va Script tili o'rtasidagi boshqa farqlarni ham ko'rib chiqamiz."
+      },
+      {
+        "text": "Dasturlash tillari ixcham bo'lib, boshqa til yoki dasturga interpretatsiya ( o'girilmaydi ) qilinmaydi."
+      },
+      {
+        "text": "Script tillar bitta tilda yozilib va boshqa dasturlar yoki dasturlash tillari yordamida interpretatsiya ( o'girish) qiladi. Misol uchun Javascript HTML bilan birgalikda qo'shilib keyin Internet browser bilan interpretatsiya ( o'griliadi ) qiladi. Shunday qilib, dasturlash tillari mustaqil ravishda ishlaydi, ammo Script tillari boshqa dastur ichida ishlaydi."
+      },
+      {
+        "text": "Dasturlash tillari to'laqonli kod va dasturiy ta'minotni ishlab chiqishni osonlashtirish uchun mo'ljallangan, Script tillari esa kodlashni tezroq va soddalashtirish uchun maxsus ishlab chiqilgan."
+      },
+      {
+        "text": "Dasturlash tillari bilan kodlash nisbatan qiyin, chunki bitta funktsiya uchun ko'plab kod satrlari talab qilinadi. Script tillari bilan funktsiyali kodlar yaratish osonroq, chunki Script tillarda bir muncha qisqaroq kod yoziladi."
+      },
+      {
+        "text": "Shunday qilib, dasturlash tillari bilan to'la-to'kis kod yozish odatda ko'proq vaqtni oladi, Script tillar bilan kodlashda ozroq vaqt talab etiladi."
+      },
+      {
+        "text": "Compilatsiya qilingan dasturlar odatda Interpretatsiya qilingan dasturlarga qaraganda tezroq ishlaydi, chunki kompilyatorlar bir vaqtning o'zida kodni o'qiydilar va tahlil qiladilar va xatolar (agar mavjud bo'lsa) haqida umumiy hisobot beradilar."
+      },
+      {
+        "text": "Lekin Interpreter kod har bir qatorni o'qiydi va tahlil qiladi va har safar xatolikni aniqlaganda, ularga birma-bir murojaat qilishni to'xtatadi."
+      },
+      {
+        "text": "Dasturlash tillariga misol qilib C, C++, C#, Java, Basic, COBOL, va Pascal kabi tillarni olsak bo'ladi. Script tillarga misol qilib JavaScript, Perl, PHP, Python, Ruby, Ruby, GameMonkey va hokazo larni olsak bo'ladi"
+      },
+      {
+        "text": "Dasturlash tillari to'liq uzunlikdagi kod bilan ishlaydi va mustaqil ravishda ishlashga qodir, o'zi mustaqil ijro eta oladi (dastur ko'rinishga keltira oladi), Script tili odatda kodning kichik qismlari ustida ishlaydi va ishlashi (dastur ko'rinishiga kelishi) uchun yordamchi dastur kerak bo'ladi."
+      },
+      {
+        "text": "Script tillari boshqa platformalarga ham bog'liq va ularni joylashtirish kerak. Dasturlash tillari .exe fayllarini yaratadi, Script tillari esa .exe bajariladigan fayllarini yaratishda qatnashmaydi."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "UTF-8: Boshidan-oxirigacha! 1-qism!",
+    "about": "PHP ni endi o'rganishni boshlaganimda, \"Салом\" so'zini bazadan o'qib brovzerda chiqaraman desam \"РЎР°Р»РѕРј\" shunga o'xshash narsalar chiqib qolgan",
+    "dataText": [
+      {
+        "text": "PHP ni endi o'rganishni boshlaganimda, \"Салом\" so'zini bazadan o'qib brovzerda chiqaraman desam \"РЎР°Р»РѕРј\" shunga o'xshash narsalar chiqib qolgan. Endi o'rganishni boshlagan dasturchi uchun bu juda g'alati narsalar bo'lib tuyulgan. Bu xatoni to'g'rilash uchun:"
+      },
+      {
+        "text": "1. Ma'lumotlar bazasida barcha ustun va jadvallarni utf8_general_ci ga qo'yish"
+      },
+      {
+        "text": "2. MySQL ulanganda: mysql_query('SET NAMES UTF8');"
+      },
+      {
+        "text": "3. PHP fayllarni hammasini UTF-8 da saqlash"
+      },
+      {
+        "text": "4. HTML sahifaga <meta charset=\"utf-8\">"
+      },
+      {
+        "text": "5. PHP da header(\"Content-type: text/html; charset: utf-8\");"
+      },
+      {
+        "text": "ko'rinishidagi sozlashlarni qilish zarurati tug'ilgan. Hozirgi kunda yangi o'rganayotgan web dasturchilar bunaqa sozlashlarni qilmasa kerak, chunki ko'pchilik framework ishlatishi sababli, frameworklarning o'zlari yuqoridagi sozlashlarni siz uchun \"default\" holatda qilishadi. Ya'ni siz hech qanday sozlashlar qilmasangiz, hammasi yuqoridagiday sozlangan bo'ladi."
+      },
+      {
+        "text": "E'tibor berayotgan bo'lsangiz, UTF-8 shunchalik hayotimizga kirib keldiki, hozirgi web saytlarni usiz tasavvur qilish juda qiyin, ayniqsa O'zbekistonda! Chunki O'zbekistonda bir vaqtda lotincha va krillcha harflarni qo'llaydigan sayt qilish kerakda? :)"
+      },
+      {
+        "text": "Keling endi UTF-8 o'zi nima? degan savol javob berishga harakat qilib ko'rsak. Agar qisqacha javob bersam, bu bir nechta kodlash jadvallaridan biridir. Tushunmadingizmi, o'qishda davom eting."
+      },
+      {
+        "text": "Manimcha ko'pchilik maktab darsliklarida ASCII degan narsani eshitgan. Aslida bu ham kodlash jadvalidir. Faqat buning kamchligi, atigi 128 ta belgini qo'llab-quvvatlaydi. Qolgan 0x80-0xFF oraliqlari kengaytirilgan bo'lib, tanlangan kodlash jadvalidan kelib chiqib o'zgarishi mumkin. Misol uchun windows-1250 va windows-1251 jadvallariga qarasangiz kodlar bir-xil, lekin belgilar farqlanadi."
+      },
+      {
+        "text": "Yuqoridagilardan tashqari, har bitta korxona o'zining maxsulotlari uchun kodlash jadvallar yaratishni boshlagan. Misol uchun, MacCyrillic Macintosh kompyuterlari uchun."
+      },
+      {
+        "text": "Agar e'tibor bergan bo'lsangiz, yuqorida keltirgan 3 ta kodlash jadvallari 0x00 dan 0xFF gacha bo'lib, 8 bitli kodlash jadvallari guruhiga mansubdir. Bunaqa turdagi kodlash jadvallarining qo'llashdagi qiyinchiligini quyidagi misol bilan tushuntirsam."
+      },
+      {
+        "text": "Windows-1251 da krillcha \"Щ\" belgisi 0xD9 kodida turibdi, MacCyrillic da esa 0x99 da! Tasavvur qiling, windows-1251 da ishlaydigan dastur \"Щ\" harfini tarmoqda jo'natsa 0xD9 kodini (bayt) yuboradi. Macintoshda ishlayotgan foydalanuvchiga esa \"ў\" belgisi (0xD9) chiqqan bo'lardi. Chunki undagi kodlash jadvali MacCyrillic!"
+      },
+      {
+        "text": "Shunaqa har xil muammolar kelib chiqqandan keyin, UNICODE standarti dunyo yuzini ko'rdi. UNICODE standart bo'lib, yuqoridagilardan farqi 1 mln. dan ortiq belgilarni saqlash mumkin."
+      },
+      {
+        "text": "UNICODE bu standard, shu UNICODE asosida ishlaydigan kodlash jadvallari esa UTF-8, UTF-16, va UTF-32 (yana bor ... :) )."
+      },
+      {
+        "text": "UTF-16 va UTF-32 bular mos ravishda o'zgarmas (O'ZGARMAS) 16 (2 bayt) va 32 (4 bayt) bitli uzunlikdagi belgilar to'plamidir. UTF-8 da sal boshqacharoq."
+      },
+      {
+        "text": "Misol uchun, UTF-8 da logincha \"A\" harfi 1 bayt (0x41), krillcha \"Щ\" harfi 2 bayt (0xd0a9), yaponcha \"ぁ\" (kichik A) belgisi 3 bayt (0xe38181) va \"𐄳\" belgisi 4 bayt (0xf09084b3). (to'liq jadval). Ya'ni UTF-8 da kodlangan belgilar 1 baytdan 4 baytgacha bo'lishi mumkin. Bu nima uchun kerak?"
+      },
+      {
+        "text": "Biz bilamizki internet olamida deyarli barcha dasturlar, web sahifalar (HTML/CSS,JS) lotin harfida yoziladi. Agar biz \"default\" UTF-16 ni ishlatganimizda, telegramdan yozgan har bir lotincha harfimizga ortiqcha 1 bayt trafik ishlatardik. Shu tariqa har bir ochgan web sahifamizga ham 2 barobar ko'proq trafik sarflagan bo'lardik. UTF-8 ning shu darajada mashxur bo'lishiga asosiy sabab dastlabki 128 ta belgi ASCII jadvali bilan bir-xil bo'lib, ikkalasida ham 1 bayt joy egallaydi. Ushbu 128 ta belgi, lotin harflarini va dasturlashda ko'p ishlatiladigan belgilarni o'z ichiga oladi."
       }
     ]
   }

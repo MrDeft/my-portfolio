@@ -13,27 +13,27 @@ function Home() {
                 </p>
                 <ul className='social-comp'>
                     <li className='social-list'>
-                        <a href='https://www.facebook.com/profile.php?id=100037966193278'>
+                        <a target="_blank" rel="noreferrer" href='https://www.facebook.com/profile.php?id=100037966193278'>
                             <i className='bi bi-facebook'></i>
                         </a>
                     </li>
                     <li className='social-list'>
-                        <a href='https://www.instagram.com/b_allashukirov7/'>
+                        <a target="_blank" rel="noreferrer" href='https://www.instagram.com/b_allashukirov7/'>
                             <i className='bi bi-instagram'></i>
                         </a>
                     </li>
                     <li className='social-list'>
-                        <a href='https://twitter.com'>
+                        <a target="_blank" rel="noreferrer" href='https://twitter.com'>
                             <i className='bi bi-twitter'></i>
                         </a>
                     </li>
                     <li className='social-list'>
-                        <a href='https://t.me/b_allashukirov'>
+                        <a target="_blank" rel="noreferrer" href='https://t.me/b_allashukirov'>
                             <i className='bi bi-telegram'></i>
                         </a>
                     </li>
                     <li className='social-list'>
-                        <a href='https://github.com/MrDeft'>
+                        <a target="_blank" rel="noreferrer" href='https://github.com/MrDeft'>
                             <i className='bi bi-github'></i>
                         </a>
                     </li>
