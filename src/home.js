@@ -18,12 +18,12 @@ function Home() {
                         </a>
                     </li>
                     <li className='social-list'>
-                        <a target="_blank" rel="noreferrer" href='https://www.instagram.com/b_allashukirov7/'>
+                        <a target="_blank" rel="noreferrer" href='https://www.instagram.com/b_allashukirov/'>
                             <i className='bi bi-instagram'></i>
                         </a>
                     </li>
                     <li className='social-list'>
-                        <a target="_blank" rel="noreferrer" href='https://twitter.com'>
+                        <a target="_blank" rel="noreferrer" href='https://twitter.com/b_allashukirov7'>
                             <i className='bi bi-twitter'></i>
                         </a>
                     </li>

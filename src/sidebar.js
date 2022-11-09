@@ -42,10 +42,10 @@ function SideBar() {
                     <Link to="/" >Home</Link>
                 </li>
                 <li onClick={addclass} className="sidebar-list">
-                    {/* <Link to="/about" >About</Link> */}
+                    <Link to="/about" >About</Link>
                 </li>
                 <li onClick={addclass} className="sidebar-list">
-                    {/* <Link to="/resume" >Resume</Link> */}
+                    <Link to="/resume" >Resume</Link>
                 </li>
                 <li onClick={addclass} className="sidebar-list">
                     <Link to="/portfolios" >Portfolios</Link>

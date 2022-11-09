@@ -570,4 +570,6 @@ code {
 }
 #language-info img {
   width: 400px;
+  display: flex;
+  text-align: center;
 }
