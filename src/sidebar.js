@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import myphoto from './images/profile.jpg';
+import myphoto from './images/profile1.jpg';
 import { Link } from 'react-router-dom';
 import './icon/bootstrap-icons.css'
 
